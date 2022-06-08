@@ -1,0 +1,19 @@
+.container{
+    text-align: center;
+}
+table{
+    margin: auto;
+    height: 150px;
+    width: 160px;
+}
+#screen{
+    border: 3px solid crimson;
+    border-radius: 5px;
+}
+button{
+    height: 30px;
+    width: 40px;
+    background-color: lightblue;
+    border: 3px solid black;
+    border-radius: 7px;
+}
